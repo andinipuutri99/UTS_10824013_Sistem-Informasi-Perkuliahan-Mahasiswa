@@ -1,6 +1,10 @@
 # Kampus!n — Flutter App
 
-Konversi dari React/TypeScript ke **Dart Flutter**.
+Andini Putri Yani (10824013)
+
+# Deskripsi Aplikasi
+Kampus!n merupakan aplikasi mobile berbasis flutter dan dart yang dirancang untuk 
+membantu mahasiswa mengakses informasi dasar perkuliahan.
 
 ## Struktur Proyek
 
@@ -78,9 +82,9 @@ shared_preferences: ^2.2.2 # Persistent storage (pengganti localStorage)
 google_fonts: ^6.1.0       # Plus Jakarta Sans font
 ```
 
-## Notes
+<img width="203" height="380" alt="Screenshot 2026-05-19 124641" src="https://github.com/user-attachments/assets/fc227ff9-b65d-435c-a321-a78bf16a8f10" />
+<img width="192" height="361" alt="Screenshot 2026-05-19 133738" src="https://github.com/user-attachments/assets/b91717eb-0c41-4450-a3da-800831d3e6d3" />
+<img width="212" height="397" alt="Screenshot 2026-05-19 135600" src="https://github.com/user-attachments/assets/0685d087-274c-4d56-9b05-640fc07ec167" />
+<img width="192" height="361" alt="Screenshot 2026-05-19 133806" src="https://github.com/user-attachments/assets/dde2eddb-e45e-4533-ace2-36a23b7f95f9" />
 
-- Autentikasi masih **mock** — tidak ada backend nyata
-- Untuk production, ganti `shared_preferences` dengan API call ke backend
-- Avatar menggunakan DiceBear API (perlu internet)
-- Gambar berita menggunakan Unsplash (perlu internet)
+
